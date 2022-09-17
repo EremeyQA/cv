@@ -3,5 +3,5 @@ const button = document.querySelector('button');
 
 /* Тут на кнопку навешиваем обрабочик, который ждёт клика и тогда запустит логику */
 button.addEventListener('click', function() {
-	alert('Запуск форматирования диска С.')
+	alert('Запуск форматирования диска С. = )')
 })
